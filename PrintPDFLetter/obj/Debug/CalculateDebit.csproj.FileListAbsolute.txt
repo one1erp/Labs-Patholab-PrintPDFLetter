@@ -1,0 +1,16 @@
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\obj\Debug\CalculateDebit.csprojResolveAssemblyReference.cache
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\CalculateDebit.dll.config
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\CalculateDebit.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\CalculateDebit.pdb
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\CalculateDebit.tlb
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\Patholab_Common.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\Patholab_DAL_V1.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\Patholab_DAL_V1.pdb
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\EntityFramework.xml
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\bin\Debug\Patholab_Common.pdb
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\obj\Debug\CalculateDebit.dll
+C:\Users\roye\Desktop\Patholab Projects\CalculateDebit\CalculateDebit\obj\Debug\CalculateDebit.pdb
